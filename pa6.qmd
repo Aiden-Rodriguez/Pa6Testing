@@ -1,5 +1,6 @@
 ---
 title: "pa6"
+author: Jack Beard, Aiden Rodriguez, Ryan Lauderbach
 format: html
 editor: visual
 embed-resources: true
