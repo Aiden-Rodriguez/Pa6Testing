@@ -1,5 +1,6 @@
 ---
 title: "pa6"
+author: "Ryan, Aiden, and Jack"
 format: html
 editor: visual
 embed-resources: true
